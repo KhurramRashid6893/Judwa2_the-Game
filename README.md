@@ -50,14 +50,22 @@ o	lose_sound.mp3: Sound effect for losing.
 6.	python judwa2.py
 ________________________________________
 Gameplay Tips
+
 •	Plan your movements carefully as Player 2 mirrors Player 1, doubling the challenge.
+
 •	Try to avoid danger zones and obstacles while aiming for the goals.
+
 •	Use the increasing player speed strategically to avoid tight collisions.
+
 ________________________________________
 Credits
+
 •	Developer: Khurram Rashid
+
 •	Game Name Inspiration: "Judwa2" reflects the mirrored, twin-like gameplay.
+
 •	Libraries Used: Pygame for game development.
+
 ________________________________________
 Enjoy playing Judwa2, and good luck reaching the score limit! Let me know if you have fun or suggestions for improvements. 😊
 
