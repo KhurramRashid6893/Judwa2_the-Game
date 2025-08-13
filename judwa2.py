@@ -5,7 +5,7 @@ import random
 # Initialize Pygame and mixer for sound
 pygame.init()
 pygame.mixer.init()
-
+ 
 # Screen dimensions
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
